@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StageSelection.unity
+    guid: a7a5995e43e59d0418a001f1f2de5202
   m_configObjects: {}
